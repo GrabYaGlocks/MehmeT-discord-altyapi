@@ -1,0 +1,14 @@
+{
+  "name": "mha",
+  "version": "0.0.1",
+  "description": "",
+  "main": "mha.js",
+  "scripts": {
+    "test": "node mha.js"
+  },
+  "author": "MehmeT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
